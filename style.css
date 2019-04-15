@@ -34,6 +34,7 @@ body {
 
 #links a {
   flex-basis: 33%;
+  flex-grow: 1;
   margin-bottom: 1em;
 }
 
